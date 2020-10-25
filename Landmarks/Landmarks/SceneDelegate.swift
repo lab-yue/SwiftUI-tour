@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Landmarks
 //
-//  Created by tg-mac-pro-05 on 2020/10/26.
+//  Created by yue on 2020/10/26.
 //
 
 import UIKit
