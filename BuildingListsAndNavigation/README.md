@@ -1,3 +1,3 @@
-# Building Lists and Navigation
+# Completed Project: Building Lists and Navigation
 
-Use this project to code along with the [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) tutorial.
+Explore the completed project for the [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) tutorial.
